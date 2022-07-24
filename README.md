@@ -1,7 +1,7 @@
 # About me
 ![Profile views](https://gpvc.arturio.dev/maxlefebvre)
 
-I'm an 22 year old Software Developer from Canada. Interested in Computer Security, Cryptography, Operating Systems and Software Architecture. I'm looking to get contribute to more open source projects and share my own projects soon.
+I'm an 24 year old Software Developer from Canada. Interested in Computer Security, Cryptography, Operating Systems and Software Architecture. I'm looking to get to contribute to more open source projects and share my own projects soon.
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=maxlefebvre&count_private=true&show_icons=true&theme=dark" align="center" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlefebvre&theme=dark&layout=compact" align="center" />
