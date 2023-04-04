@@ -1,22 +1,20 @@
 # About me
 ![Profile views](https://gpvc.arturio.dev/maxlefebvre)
 
-I'm an 24 year old Software Developer from Canada. Interested in Computer Security, Cryptography, Operating Systems and Software Architecture. I'm looking to get to contribute to more open source projects and share my own projects soon.
+I'm an 24 year old Software Developer from Canada. I'm interested in all things Computer Security, Cryptography, Operating Systems and Software Architecture.
+
+## Main Technologies & Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=maxlefebvre&count_private=true&show_icons=true&theme=dark" align="center" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlefebvre&theme=dark&layout=compact" align="center" />
-
-<sub>Disclaimer: Professional experience in Java/C/C++/C# not shown above.</sub>
-
-## Main Technologies & Languages
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C, C%2B%2B-659AD2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/-C%23-9D74D5?style=flat&logo=c%20sharp&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/-SQLite-6CB9E1?style=flat&logo=sqlite&logoColor=FFFFFF" />
 
 ## Contact
 * Email: [lefebvremaximillian@gmail.com](mailto:lefebvremaximillian@gmail.com)
