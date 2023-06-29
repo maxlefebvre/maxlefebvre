@@ -1,5 +1,5 @@
 # About me
-![Profile views](https://gpvc.arturio.dev/maxlefebvre)
+![Profile views](https://komarev.com/ghpvc/?username=maxlefebvre)
 
 I'm an 24 year old Software Developer from Canada. I'm interested in all things Computer Security, Cryptography, Operating Systems and Software Architecture.
 
