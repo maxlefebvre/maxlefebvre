@@ -1,7 +1,7 @@
 # About me
 ![Profile views](https://komarev.com/ghpvc/?username=maxlefebvre)
 
-I'm an 24 year old Software Developer from Canada. I'm interested in all things Computer Security, Cryptography, Operating Systems and Software Architecture.
+I'm an 26 year old Software Developer from Canada. I'm interested in all things Computer Security, Cryptography, Operating Systems and Software Architecture.
 
 ## Main Technologies & Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
